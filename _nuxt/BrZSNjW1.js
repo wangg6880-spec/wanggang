@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./BkBivIvj.js";import{p as n}from"#entry";var r=e(()=>{let{user:e}=n();e.value?.advanced||(console.warn(`User is not allowed to access advanced features`),t(`/`))});export{r as default};

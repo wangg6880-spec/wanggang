@@ -1,0 +1,1 @@
+import{r as e}from"./DcDFt_-l.js";var t=e(`/svgs/manage-group-settings.svg`);export{t};

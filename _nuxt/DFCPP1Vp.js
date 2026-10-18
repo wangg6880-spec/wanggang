@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./BkBivIvj.js";import{p as n}from"#entry";var r=e(()=>{let{user:e}=n();e.value?.canOrganize||(console.warn(`User is not allowed to organize data`),t(`/`))});export{r as default};

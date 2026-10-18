@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./BkBivIvj.js";import{p as n}from"#entry";var r=e(e=>{let{user:r}=n();e.params.groupSlug!==r.value?.groupSlug&&t(`/`)});export{r as default};

@@ -1,0 +1,1 @@
+import{It as e,P as t,W as n}from"./Z7zO-HVY.js";import{B as r}from"./Bpd53_OI.js";import{p as i}from"#entry";var a=Object.assign(n({__name:`AdvancedOnly`,setup(n){let a=i().user.value?.advanced||!1;return(n,i)=>r(a)?e(n.$slots,`default`,{},void 0,void 0,0):t(``,!0)}}),{__name:`AdvancedOnly`});export{a as t};

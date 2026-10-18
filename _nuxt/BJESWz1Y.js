@@ -1,0 +1,1 @@
+import{j as e}from"./Z7zO-HVY.js";import{p as t}from"./BkBivIvj.js";import{p as n}from"#entry";var r=function(){let r=n(),i=t(),a=e(()=>r.loggedIn.value);return{loggedIn:a,isOwnGroup:e(()=>i.params.groupSlug?a.value&&r.user.value?.groupSlug===i.params.groupSlug:a.value)}};export{r as t};

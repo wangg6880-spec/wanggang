@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./BkBivIvj.js";import{p as n}from"#entry";var{user:r}=n(),i=e(()=>{r.value?.canManageHousehold||t(`/`)});export{i as default};

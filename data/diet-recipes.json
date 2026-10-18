@@ -1,0 +1,5213 @@
+{
+  "generatedAt": "2026-10-16T05:44:55.286Z",
+  "recipes": [
+    {
+      "id": "9e631272-ee8b-4e2f-b740-94adf3b22158",
+      "name": "小龙虾",
+      "slug": "xiao-long-xia",
+      "image": "6yuz",
+      "calories": 571,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "360ed47a-8db7-4b7f-be98-431d3add4c26",
+      "name": "响油鳝丝",
+      "slug": "xiang-you-shan-si",
+      "image": "IcPV",
+      "calories": 556,
+      "servings": 2,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "01f5ae38-e246-4ebf-9cd0-ddc6067b34a5",
+      "name": "咖喱炒蟹",
+      "slug": "ka-li-chao-xie",
+      "image": "XNC2",
+      "calories": 815,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f7f0c8c2-a77a-42e5-8e3b-4ed092978565",
+      "name": "干煎阿根廷红虾",
+      "slug": "gan-jian-a-gen-ting-hong-xia",
+      "image": "2ZE7",
+      "calories": 309,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1e11e0b9-726c-44c3-8714-eaf6acdf44ae",
+      "name": "水煮鱼",
+      "slug": "shui-zhu-yu",
+      "image": "gQkV",
+      "calories": 248,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e0cdc543-1e0a-415c-8207-388182d2b804",
+      "name": "微波葱姜黑鳕鱼",
+      "slug": "wei-bo-cong-jiang-hei-xue-yu",
+      "image": "4tVE",
+      "calories": 749,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2b685606-3b28-4a89-9461-6f40b7b13efd",
+      "name": "油焖大虾",
+      "slug": "you-men-da-xia",
+      "image": "PT8r",
+      "calories": 584,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5b8ef352-e5a9-45aa-9843-44648c6af789",
+      "name": "烤鱼",
+      "slug": "kao-yu",
+      "image": "W1F1",
+      "calories": 2152,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c1b00b98-a9f8-417e-9639-136cceb2cf95",
+      "name": "清蒸生蚝",
+      "slug": "qing-zheng-sheng-ci",
+      "image": "5DUE",
+      "calories": 184,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6add963c-38ee-4ea5-831f-e0bf3ee5141b",
+      "name": "清蒸鲈鱼",
+      "slug": "qing-zheng-lu-yu",
+      "image": "U5ua",
+      "calories": 385,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "3abcf007-bb75-4413-85b0-388d2092e1ba",
+      "name": "白灼虾",
+      "slug": "bai-zhuo-xia",
+      "image": "9wx8",
+      "calories": 519,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "24a6b66a-b78f-410d-a0cb-5c0b5d651578",
+      "name": "糖醋鲤鱼",
+      "slug": "tang-cu-li-yu",
+      "image": "hRWX",
+      "calories": 1011,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7cfa0e86-080a-4750-aa42-71f277c45869",
+      "name": "红烧鱼",
+      "slug": "hong-shao-yu",
+      "image": "c2mE",
+      "calories": 570,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "b4da64e2-5647-4995-851e-cd3d193cc065",
+      "name": "红烧鱼头",
+      "slug": "hong-shao-yu-tou",
+      "image": "gD0K",
+      "calories": 333,
+      "servings": 2,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "497fd970-2b17-4b0c-9715-af165a309763",
+      "name": "红烧鲤鱼",
+      "slug": "hong-shao-li-yu",
+      "image": "YxPx",
+      "calories": 1051,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9197625a-b433-4588-83e9-4600eb2607cf",
+      "name": "肉蟹煲",
+      "slug": "rou-xie-bao",
+      "image": "oUgV",
+      "calories": 2111,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6ef35cb8-24c8-448b-9d96-bff12aab592e",
+      "name": "芥末黄油罗氏虾",
+      "slug": "jie-mo-huang-you-luo-shi-xia",
+      "image": "u8UG",
+      "calories": 637,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "58a51cff-cfbe-4f3b-94cc-bf17294be8a5",
+      "name": "葱油桂鱼",
+      "slug": "cong-you-gui-yu",
+      "image": "Vu8Q",
+      "calories": 311,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2dd593e6-af4e-4c9e-8c53-d1069ef2f3ff",
+      "name": "葱烧海参",
+      "slug": "cong-shao-hai-can",
+      "image": "eMdZ",
+      "calories": 299,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2a2198d5-6ed2-4d10-bf23-3a60e545c579",
+      "name": "蒜蓉虾",
+      "slug": "suan-rong-xia",
+      "image": "UGB9",
+      "calories": 456,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "10922b28-6f17-4d52-82f7-c61fc2f1af7a",
+      "name": "蒜香黄油虾",
+      "slug": "suan-xiang-huang-you-xia",
+      "image": "na22",
+      "calories": 526,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "9fb87fe8-7d4b-454b-b23b-739ac3f78afb",
+      "name": "蛏抱蛋",
+      "slug": "cheng-bao-dan",
+      "image": "ySBu",
+      "calories": 1229,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2a4940fa-5798-4201-9dc3-2b3fd0ea362c",
+      "name": "酱炖蟹",
+      "slug": "jiang-tun-xie",
+      "image": "2BU0",
+      "calories": 468,
+      "servings": 2,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7704d902-9195-49ae-b77a-bf2e495f000d",
+      "name": "阳朔啤酒鱼",
+      "slug": "yang-shuo-pi-jiu-yu",
+      "image": "6vE5",
+      "calories": 1092,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9bfcb4e8-73b3-4efb-b779-3445a83bec85",
+      "name": "香煎翘嘴鱼",
+      "slug": "xiang-jian-qiao-zui-yu",
+      "image": "JV4Z",
+      "calories": 820,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "15f2ed90-decf-453c-af43-647e540dca28",
+      "name": "鲤鱼炖白菜",
+      "slug": "li-yu-tun-bai-cai",
+      "image": "zJpY",
+      "calories": 792,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d0743166-cbcf-48bc-8a53-6a6241c0bf07",
+      "name": "鳊鱼炖豆腐",
+      "slug": "bian-yu-tun-dou-fu",
+      "image": "6Fzn",
+      "calories": 524,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "06d7cee2-d1a5-4172-91b9-027bc04c1f42",
+      "name": "吐司果酱",
+      "slug": "tu-si-guo-jiang",
+      "image": "P75H",
+      "calories": 223,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "70e5d3cf-a06d-43b1-8dd8-8ef503da04c9",
+      "name": "黄油煎虾",
+      "slug": "huang-you-jian-xia",
+      "image": "TSFI",
+      "calories": 741,
+      "servings": 1,
+      "categories": [
+        "水产"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "339a328f-e386-4c61-ad15-e15d50520c84",
+      "name": "完美水煮蛋",
+      "slug": "wan-mei-shui-zhu-dan",
+      "image": "SbMv",
+      "calories": 86,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "78208015-4750-4707-b53f-d41fdbcf381b",
+      "name": "太阳蛋",
+      "slug": "tai-yang-dan",
+      "image": "KSNi",
+      "calories": 113,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "9c71f923-0a9f-4379-8ef7-824aff23bb3e",
+      "name": "微波炉荷包蛋",
+      "slug": "wei-bo-lu-he-bao-dan",
+      "image": "2ars",
+      "calories": 169,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "ff976a32-e500-4a2f-b26b-724b95100384",
+      "name": "微波炉蒸蛋",
+      "slug": "wei-bo-lu-zheng-dan",
+      "image": "bzCD",
+      "calories": 151,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "2c89b8d0-0e61-450a-9139-944ca647f1bd",
+      "name": "微波炉蛋糕",
+      "slug": "wei-bo-lu-dan-gao",
+      "image": "6AvP",
+      "calories": 308,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "5b1cd7e9-59dc-4bb6-96b4-944a06cdb61c",
+      "name": "手抓饼",
+      "slug": "shou-zhua-bing",
+      "image": "V6xj",
+      "calories": 1050,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "ab4068ec-5bec-4ad0-809a-fe378d8c181f",
+      "name": "意式香肠北非蛋",
+      "slug": "yi-shi-xiang-chang-bei-fei-dan",
+      "image": "PIYb",
+      "calories": 668,
+      "servings": 2,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d5b5a99d-e19d-410c-9c8b-ebc190f549f2",
+      "name": "桂圆红枣粥",
+      "slug": "gui-yuan-hong-zao-zhou",
+      "image": "w25S",
+      "calories": 617,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "8c253cf1-a63b-464e-89af-ba560e93f4f9",
+      "name": "温泉蛋",
+      "slug": "wen-quan-dan",
+      "image": "NBeS",
+      "calories": 72,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7798ca0e-3560-4679-b1a7-02cb4ac2edf4",
+      "name": "水煮玉米",
+      "slug": "shui-zhu-yu-mi",
+      "image": "hjeP",
+      "calories": 108,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "b7acf13b-9a30-452e-b7ab-ef2ef42e7dc5",
+      "name": "溏心蛋",
+      "slug": "tang-xin-dan",
+      "image": "GJVh",
+      "calories": 72,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d8e77f24-2658-48d6-9432-56ad2214fd68",
+      "name": "煎饺",
+      "slug": "jian-jiao",
+      "image": "Exek",
+      "calories": 769,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "fdfe4e93-8615-4087-818a-92b822cb0fb4",
+      "name": "燕麦鸡蛋饼",
+      "slug": "yan-mai-ji-dan-bing",
+      "image": "egIc",
+      "calories": 535,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "09085d14-c502-4f7b-b651-99a157a1862d",
+      "name": "牛奶燕麦",
+      "slug": "niu-nai-yan-mai",
+      "image": "4KR6",
+      "calories": 421,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "9407cfe8-46c1-49bd-80ee-3cdd59d39e1d",
+      "name": "空气炸锅面包片",
+      "slug": "kong-qi-zha-guo-mian-bao-pian",
+      "image": "UqYv",
+      "calories": 254,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "254d5446-ae29-48dc-92c8-d1222079571c",
+      "name": "美式炒蛋",
+      "slug": "mei-shi-chao-dan",
+      "image": "B0jp",
+      "calories": 258,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "102f990b-8536-4922-a93a-5dded9a9e59c",
+      "name": "苏格兰蛋",
+      "slug": "su-ge-lan-dan",
+      "image": "aXmC",
+      "calories": 599,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e7b561f1-2ca6-46ea-8a3c-68f10c92c425",
+      "name": "茶叶蛋",
+      "slug": "cha-xie-dan",
+      "image": "VhvT",
+      "calories": 193,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "eba19b74-9a34-4b9f-9d02-b3b323e411f0",
+      "name": "蒸水蛋",
+      "slug": "zheng-shui-dan",
+      "image": "STya",
+      "calories": 143,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "438b9560-463c-436b-9830-b1a206df0bcb",
+      "name": "蒸花卷",
+      "slug": "zheng-hua-juan",
+      "image": "vQ4Y",
+      "calories": 400,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "7eeff26d-e749-4df9-b9e9-44ce2f6811a7",
+      "name": "蛋煎糍粑",
+      "slug": "dan-jian-ci-ba",
+      "image": "gCt5",
+      "calories": 379,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "7577be0c-2df3-4abe-a0f7-514319793a3e",
+      "name": "金枪鱼酱三明治",
+      "slug": "jin-qiang-yu-jiang-san-ming-zhi",
+      "image": "Vepl",
+      "calories": 569,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "e1e70564-e1cc-4285-ab74-7f5a9939b393",
+      "name": "韩国麻药鸡蛋",
+      "slug": "han-guo-ma-yao-ji-dan",
+      "image": "3kjf",
+      "calories": 669,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "532417a4-2ad7-4e2a-be7e-19dca04b95da",
+      "name": "鸡蛋三明治",
+      "slug": "ji-dan-san-ming-zhi",
+      "image": "5d4Q",
+      "calories": 560,
+      "servings": 1,
+      "categories": [
+        "早餐"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "778a48bf-179d-42a4-9889-f7e117901094",
+      "name": "油泼辣子",
+      "slug": "you-po-la-zi",
+      "image": "vOaA",
+      "calories": 1854,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e54f8639-68be-4e9d-a6c4-989e28477033",
+      "name": "油酥",
+      "slug": "you-su",
+      "image": "0dfh",
+      "calories": 111,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "97668e8e-93e3-4b31-b44e-cf4df02a0e41",
+      "name": "炸串酱料",
+      "slug": "zha-chuan-jiang-liao",
+      "image": "1dqK",
+      "calories": 1826,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "0c5aaaf7-c335-42f1-912d-c39e3423ea3f",
+      "name": "简易版炒糖色",
+      "slug": "jian-yi-ban-chao-tang-se",
+      "image": "lfgg",
+      "calories": 1028,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "56f20c22-84ca-431d-a291-f291a617bfe9",
+      "name": "糖醋汁",
+      "slug": "tang-cu-zhi",
+      "image": "W7iL",
+      "calories": 146,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "5b219d8b-8bfc-47c5-ad02-7049c493cf14",
+      "name": "草莓酱",
+      "slug": "cao-mei-jiang",
+      "image": "ycqR",
+      "calories": 1940,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "6bbc0e9a-b84f-42f1-a025-b280c9e313a8",
+      "name": "葱油",
+      "slug": "cong-you",
+      "image": "YacC",
+      "calories": 2069,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d04842ba-0be0-4839-8a61-db8419378f0c",
+      "name": "蒜香酱油",
+      "slug": "suan-xiang-jiang-you",
+      "image": "yGm7",
+      "calories": 177,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "554ad4cc-0224-4d4f-b8f2-0433df96a4f5",
+      "name": "蔗糖糖浆",
+      "slug": "zhe-tang-tang-jiang",
+      "image": "oR8f",
+      "calories": 400,
+      "servings": 1,
+      "categories": [
+        "调料"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "bc55edce-5b5b-40b8-8a19-71027228ce08",
+      "name": "反沙芋头",
+      "slug": "fan-sha-yu-tou",
+      "image": "UFXf",
+      "calories": 397,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "72f0c4b1-bdf1-4555-a7d4-f9d7937a082a",
+      "name": "咖啡椰奶冻",
+      "slug": "ka-pei-ye-nai-dong",
+      "image": "HJ16",
+      "calories": 162,
+      "servings": 4,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2a173145-0840-4fdf-b36e-a9e396859b4a",
+      "name": "奥利奥冰淇淋",
+      "slug": "ao-li-ao-bing-qi-lin",
+      "image": "MKot",
+      "calories": 1160,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5d05e380-f23b-4ee8-b300-0432a00c343b",
+      "name": "戚风蛋糕",
+      "slug": "qi-feng-dan-gao",
+      "image": "9tic",
+      "calories": 274,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ad2faec9-b9b7-420e-be92-bcfaebee3925",
+      "name": "提拉米苏",
+      "slug": "ti-la-mi-su",
+      "image": "aPNK",
+      "calories": 809,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "49fcd712-08c6-4cab-ab44-bed4f43f6a5e",
+      "name": "无厨师机蜂蜜面包",
+      "slug": "wu-chu-shi-ji-feng-mi-mian-bao",
+      "image": "UmGM",
+      "calories": 176,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fdd04103-b90c-42d2-9d75-25657ab0d4b2",
+      "name": "炸鲜奶",
+      "slug": "zha-xian-nai",
+      "image": "Juse",
+      "calories": 1100,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ac95c300-82ec-4f17-b4e6-5144c4ea42de",
+      "name": "烤箱版巴斯克芝士蛋糕",
+      "slug": "kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao",
+      "image": "d31g",
+      "calories": 266,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "e1377577-f6a0-4490-abb4-75b4ef90b7a9",
+      "name": "烤蛋挞",
+      "slug": "kao-dan-ta",
+      "image": "QznF",
+      "calories": 169,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "0061132f-3ac1-4e5a-a931-96e1ef72115a",
+      "name": "玛格丽特饼干",
+      "slug": "ma-ge-li-te-bing-gan",
+      "image": "0atW",
+      "calories": 863,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7fd842ba-67a9-4071-8a9d-73d9b1b966fe",
+      "name": "红柚蛋糕",
+      "slug": "hong-you-dan-gao",
+      "image": "NILX",
+      "calories": 622,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6dec6fa0-dc5d-4304-a65f-2dd42bf09291",
+      "name": "胡萝卜甜糕",
+      "slug": "hu-luo-bu-tian-gao",
+      "image": "r7Sp",
+      "calories": 374,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "61dadbff-7342-4728-9807-89934bcdf327",
+      "name": "芋泥雪媚娘",
+      "slug": "yu-ni-xue-mei-niang",
+      "image": "bF1e",
+      "calories": 160,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "79a4950c-ad39-4508-a1e4-1f11d820514a",
+      "name": "草莓冰淇淋",
+      "slug": "cao-mei-bing-qi-lin",
+      "image": "zJuj",
+      "calories": 1653,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "fbae1f53-de2a-4680-b907-e4e134a6d042",
+      "name": "英式司康",
+      "slug": "ying-shi-si-kang",
+      "image": "1Pc5",
+      "calories": 1197,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7c5f25af-6d35-4b3d-9d74-c8d0325f5818",
+      "name": "酸奶意式奶冻",
+      "slug": "suan-nai-yi-shi-nai-dong",
+      "image": "KTYT",
+      "calories": 1034,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4de2dac3-9d65-4088-8947-a77c305e0510",
+      "name": "雪花酥",
+      "slug": "xue-hua-su",
+      "image": "SNkc",
+      "calories": 1313,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5659b0fb-5f50-4343-8a4f-38ced3f131dc",
+      "name": "魔芋蛋糕",
+      "slug": "mo-yu-dan-gao",
+      "image": "fcKY",
+      "calories": 234,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a8e21a57-7a1d-4665-aa92-b466a19f2adb",
+      "name": "龟苓膏",
+      "slug": "gui-ling-gao",
+      "image": "H8Ky",
+      "calories": 129,
+      "servings": 1,
+      "categories": [
+        "甜品"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "903093b1-907c-4914-814a-a17b8217e11f",
+      "name": "B52轰炸机",
+      "slug": "b52hong-zha-ji",
+      "image": "g9p3",
+      "calories": 80,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9a4a28dd-dbca-427c-9e98-ef3c56e60cab",
+      "name": "Mojito莫吉托",
+      "slug": "mojitomo-ji-tuo",
+      "image": "rDzq",
+      "calories": 187,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "070ac544-0f7e-4512-8212-3d173004092a",
+      "name": "冬瓜茶",
+      "slug": "dong-gua-cha",
+      "image": "xRZN",
+      "calories": 296,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "e0299a6c-a96c-4bb5-9716-bc46578c11c7",
+      "name": "冰粉",
+      "slug": "bing-fen",
+      "image": "0EeP",
+      "calories": 110,
+      "servings": 5,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "445f80d0-2409-46e3-ad12-ff9608a8c135",
+      "name": "印度奶茶",
+      "slug": "yin-du-nai-cha",
+      "image": "e77H",
+      "calories": 135,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "12ac2248-5373-4e09-80c6-9027a8f5ff87",
+      "name": "可乐桶",
+      "slug": "ke-le-tong",
+      "image": "bESd",
+      "calories": 450,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "42a15e34-2568-4aec-82e3-5f5e72538982",
+      "name": "奇异果菠菜特调",
+      "slug": "qi-yi-guo-bo-cai-te-diao",
+      "image": "5D7t",
+      "calories": 184,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "f7f19eb4-e3ea-47f9-9ff5-8ed67cc5cc68",
+      "name": "奶茶",
+      "slug": "nai-cha",
+      "image": "bz2X",
+      "calories": 81,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "8e04f280-ab26-4a04-9ed4-49c6a14acf06",
+      "name": "杨枝甘露",
+      "slug": "yang-zhi-gan-lu",
+      "image": "Aths",
+      "calories": 661,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "fd6dde0b-eb99-4bbe-98d2-c83da45f255c",
+      "name": "柠檬水",
+      "slug": "ning-meng-shui",
+      "image": "ZSVC",
+      "calories": 141,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "65339d66-c4c8-4317-8e1f-41aa84baac60",
+      "name": "泰国手标红茶",
+      "slug": "tai-guo-shou-biao-hong-cha",
+      "image": "F5PV",
+      "calories": 185,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2901d548-3c2c-44a7-abd4-948d89d8b4cc",
+      "name": "海边落日",
+      "slug": "hai-bian-luo-ri",
+      "image": "BEaW",
+      "calories": 173,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "41146e9e-1ffe-4fe9-93fc-0a43ced1481c",
+      "name": "牛油果拉西",
+      "slug": "niu-you-guo-la-xi",
+      "image": "wB6y",
+      "calories": 392,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "039313ec-0aef-4c1e-b0a2-07e96e446a3f",
+      "name": "百香果橙子特调",
+      "slug": "bai-xiang-guo-cheng-zi-te-diao",
+      "image": "vSju",
+      "calories": 173,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "644bc85d-d0cb-46a4-85ef-0ac050e742a0",
+      "name": "砂糖椰子冰沙",
+      "slug": "sha-tang-ye-zi-bing-sha",
+      "image": "4UbX",
+      "calories": 231,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "e353747b-f3d4-4cd8-b2e8-db4d148f1ce9",
+      "name": "耙耙柑茶",
+      "slug": "pa-pa-gan-cha",
+      "image": "s8S8",
+      "calories": 81,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "c1fb2d24-70b2-48e2-80ca-4da3313aac5a",
+      "name": "菠萝咖啡特调",
+      "slug": "bo-luo-ka-pei-te-diao",
+      "image": "Lvw0",
+      "calories": 180,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "266b6ee7-71c2-4324-99c8-83b33ef72b21",
+      "name": "酒酿醪糟",
+      "slug": "jiu-niang-lao-zao",
+      "image": "LqGw",
+      "calories": 420,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "84445883-90fe-4a5a-8479-d8fb0250f989",
+      "name": "酸梅汤",
+      "slug": "suan-mei-tang",
+      "image": "cbbO",
+      "calories": 359,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "55c498b1-1be8-4bec-b8d3-7a5d6e7562f3",
+      "name": "酸梅汤（半成品加工）",
+      "slug": "suan-mei-tang-ban-cheng-pin-jia-gong",
+      "image": "X8as",
+      "calories": 603,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "d8216b3f-e1f0-43e8-ade5-3a5d5a3408ce",
+      "name": "金汤力",
+      "slug": "jin-tang-li",
+      "image": "UZBF",
+      "calories": 205,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "ab78a316-9fae-44b9-84d2-1b7a6aa5a897",
+      "name": "金菲士",
+      "slug": "jin-fei-shi",
+      "image": "t4lM",
+      "calories": 150,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "86ca278f-2c33-49b3-9da2-d28b00f8dfc3",
+      "name": "长岛冰茶",
+      "slug": "chang-dao-bing-cha",
+      "image": "XDyg",
+      "calories": 281,
+      "servings": 1,
+      "categories": [
+        "饮料"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "93265101-08a3-44b6-858d-2f761e3570c2",
+      "name": "乡村啤酒鸭",
+      "slug": "xiang-cun-pi-jiu-ya",
+      "image": "FbnX",
+      "calories": 1324,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "43d93a13-7299-4423-b0eb-e6e5b08066f4",
+      "name": "农家一碗香",
+      "slug": "nong-jia-yi-wan-xiang",
+      "image": "CK0s",
+      "calories": 1638,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "0892c60a-fb6c-4471-a9e0-2850125c5c7b",
+      "name": "冬瓜桑拿鸡",
+      "slug": "dong-gua-sang-na-ji",
+      "image": "TrdL",
+      "calories": 680,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "acae3de9-2826-4443-b29e-361540068071",
+      "name": "冬瓜酿肉",
+      "slug": "dong-gua-niang-rou",
+      "image": "tpVa",
+      "calories": 578,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d7a701a4-67a6-4758-bb3b-8711130b65fa",
+      "name": "冷吃兔",
+      "slug": "leng-chi-tu",
+      "image": "9T9M",
+      "calories": 590,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "73ec3be0-ee46-4a16-9594-bee233bea6cd",
+      "name": "凉拌鸡丝",
+      "slug": "liang-ban-ji-si",
+      "image": "cuO7",
+      "calories": 293,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e1048275-04e3-45ed-80a7-6e09d2fd5484",
+      "name": "卤菜",
+      "slug": "lu-cai",
+      "image": "p6Dm",
+      "calories": 467,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "3f977d76-e972-425e-8969-00774c1f8b8c",
+      "name": "口水鸡",
+      "slug": "kou-shui-ji",
+      "image": "BNr2",
+      "calories": 1392,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "659873ee-bd59-463c-9864-2ac77242f0f6",
+      "name": "可乐鸡翅",
+      "slug": "ke-le-ji-chi",
+      "image": "IeWz",
+      "calories": 960,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "488dad5b-bca9-4b4c-82ab-ca0f8ff517fc",
+      "name": "台式卤肉饭",
+      "slug": "tai-shi-lu-rou-fan",
+      "image": "SPXE",
+      "calories": 1495,
+      "servings": 3,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a979502d-c747-47e9-8a2c-f8142cfcf38a",
+      "name": "咕噜肉",
+      "slug": "gu-lu-rou",
+      "image": "Fy22",
+      "calories": 673,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "3ab3610e-8fd2-42b3-b2b4-f0b2adc2ceb2",
+      "name": "咖喱肥牛",
+      "slug": "ka-li-fei-niu",
+      "image": "CR5I",
+      "calories": 1821,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "cd402240-9f36-4e17-9468-ee84d67fc7bb",
+      "name": "商芝肉",
+      "slug": "shang-zhi-rou",
+      "image": "Loko",
+      "calories": 1621,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fc0bac73-cdff-46d2-bf61-81d0b2d8ddbb",
+      "name": "啤酒鸭",
+      "slug": "pi-jiu-ya",
+      "image": "0gEf",
+      "calories": 170,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "38880bfc-3e9b-44c2-84cb-64cfe80aa01f",
+      "name": "回锅肉",
+      "slug": "hui-guo-rou",
+      "image": "IspR",
+      "calories": 997,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "61b232be-1cec-4adf-b3a5-a602a305a33a",
+      "name": "土豆炖排骨",
+      "slug": "tu-dou-tun-pai-gu",
+      "image": "4P8r",
+      "calories": 991,
+      "servings": 3,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9ef12089-7c39-4483-a3cb-95d3a60e5344",
+      "name": "奶酪培根通心粉",
+      "slug": "nai-luo-pei-gen-tong-xin-fen",
+      "image": "bSj7",
+      "calories": 728,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "24b56ebd-b676-47e3-ad89-1040bc008d2a",
+      "name": "奥尔良风味烤鸡腿",
+      "slug": "ao-er-liang-feng-wei-kao-ji-tui",
+      "image": "J1K6",
+      "calories": 955,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "af871fc1-fa97-4b96-9704-47506c2a1739",
+      "name": "姜炒鸡",
+      "slug": "jiang-chao-ji",
+      "image": "eaLS",
+      "calories": 1539,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "93143b64-798b-43cc-ac96-10663f0ce7ce",
+      "name": "姜葱捞鸡",
+      "slug": "jiang-cong-lao-ji",
+      "image": "f6JY",
+      "calories": 549,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "399fa893-5aaf-4dbe-b756-793f65f2c47d",
+      "name": "孜然牛肉",
+      "slug": "zi-ran-niu-rou",
+      "image": "POmR",
+      "calories": 612,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "776cb528-23f3-4c04-981b-4bb3de236c5b",
+      "name": "宫保鸡丁",
+      "slug": "gong-bao-ji-ding",
+      "image": "gGdt",
+      "calories": 1790,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "0057df21-800b-493c-9298-d22230b6e2a4",
+      "name": "小炒肉",
+      "slug": "xiao-chao-rou",
+      "image": "M0F0",
+      "calories": 2873,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fc9cd9cd-1cbd-410c-a2f0-bd13cd8e98d2",
+      "name": "小炒鸡肝",
+      "slug": "xiao-chao-ji-gan",
+      "image": "xvGs",
+      "calories": 760,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "02436489-4a48-4b92-aa2f-144605cfc8d6",
+      "name": "小炒黄牛肉",
+      "slug": "xiao-chao-huang-niu-rou",
+      "image": "UgCT",
+      "calories": 619,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d425db13-993e-492c-861a-65cae0bb280d",
+      "name": "小米辣炒肉",
+      "slug": "xiao-mi-la-chao-rou",
+      "image": "59rU",
+      "calories": 620,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1ca5c5d9-d619-45a0-844c-1216e7a8665d",
+      "name": "小酥肉",
+      "slug": "xiao-su-rou",
+      "image": "6P96",
+      "calories": 1939,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "73a62f34-5e01-4286-b6dd-8e9a7410cc7d",
+      "name": "尖叫牛蛙",
+      "slug": "jian-jiao-niu-wa",
+      "image": "HvcB",
+      "calories": 1643,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fa70b5ec-ddb1-4f55-a6f7-71421f1c0ad3",
+      "name": "尖椒炒牛肉",
+      "slug": "jian-jiao-chao-niu-rou",
+      "image": "11MX",
+      "calories": 449,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a89c5b22-6949-4444-9878-919d4c872637",
+      "name": "山西过油肉",
+      "slug": "shan-xi-guo-you-rou",
+      "image": "XD96",
+      "calories": 679,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9ad1f26e-63d2-4ae6-99cf-68fc69f2b8c1",
+      "name": "巴基斯坦牛肉咖喱",
+      "slug": "ba-ji-si-tan-niu-rou-ka-li",
+      "image": "qZ44",
+      "calories": 602,
+      "servings": 5,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4ccfd289-e6b0-474f-b9e0-06ccf457f9aa",
+      "name": "带把肘子",
+      "slug": "dai-ba-zhou-zi",
+      "image": "h6Y1",
+      "calories": 1037,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8d10a22c-3915-4214-9dc1-8c71447855ce",
+      "name": "干煸仔鸡",
+      "slug": "gan-bian-zi-ji",
+      "image": "qBFl",
+      "calories": 1300,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7a11a206-ce81-4283-95ec-92426dae8946",
+      "name": "广式萝卜牛腩",
+      "slug": "yan-shi-luo-bu-niu-nan",
+      "image": "CGCr",
+      "calories": 483,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "84bf97e0-266d-44c3-aa1d-6591d8cf2658",
+      "name": "徽派红烧肉",
+      "slug": "hui-pai-hong-shao-rou",
+      "image": "AlLP",
+      "calories": 3847,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fda12f81-d5dc-40e8-9302-771360144cc1",
+      "name": "意式烤鸡",
+      "slug": "yi-shi-kao-ji",
+      "image": "HwtU",
+      "calories": 315,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "b8614437-2a50-4336-bbb5-0d46098c97cf",
+      "name": "新疆大盘鸡",
+      "slug": "xin-jiang-da-pan-ji",
+      "image": "IxVZ",
+      "calories": 1108,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "bba908f1-f81f-4937-9eb9-aa80f8c079a5",
+      "name": "无骨鸡爪",
+      "slug": "wu-gu-ji-zhua",
+      "image": "n4Xc",
+      "calories": 815,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d26ad87b-1db4-409c-ac9c-69e0e09cc1a8",
+      "name": "杀猪菜",
+      "slug": "sha-zhu-cai",
+      "image": "zKmi",
+      "calories": 1657,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "65483667-a5d6-4362-96bc-3a8fce107f95",
+      "name": "枝竹羊腩煲",
+      "slug": "zhi-zhu-yang-nan-bao",
+      "image": "m6iP",
+      "calories": 2391,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ae50f6f4-fd14-4493-b31b-b158c7a450ee",
+      "name": "柱候牛腩",
+      "slug": "zhu-hou-niu-nan",
+      "image": "gum4",
+      "calories": 980,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "23fc3d8a-4820-4519-858e-899a459b0df8",
+      "name": "桂林十八酿",
+      "slug": "gui-lin-shi-ba-niang",
+      "image": "UFhn",
+      "calories": 468,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fd0f5ea8-acba-47c4-910f-bb1423854440",
+      "name": "梅菜扣肉",
+      "slug": "mei-cai-kou-rou",
+      "image": "cCZA",
+      "calories": 3756,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "da609018-cede-48cf-801c-d55f0427c525",
+      "name": "椒盐排条",
+      "slug": "jiao-yan-pai-tiao",
+      "image": "Q109",
+      "calories": 1290,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f432bf59-6ee1-4c49-8e38-7e34a4bacf72",
+      "name": "水煮牛肉",
+      "slug": "shui-zhu-niu-rou",
+      "image": "pHDX",
+      "calories": 431,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2e1fcdb0-50c5-4715-9a1a-b5c56804b28d",
+      "name": "水煮肉片",
+      "slug": "shui-zhu-rou-pian",
+      "image": "570P",
+      "calories": 361,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8d76c78c-9dfd-4630-8744-bf9687742ce1",
+      "name": "洋葱炒猪肉",
+      "slug": "yang-cong-chao-zhu-rou",
+      "image": "TTKs",
+      "calories": 979,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f3e3ca07-3852-45fb-9152-98ffbe5ce4f9",
+      "name": "淄博烧烤",
+      "slug": "zi-bo-shao-kao",
+      "image": "o2K5",
+      "calories": 650,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ccd4933f-ac21-4bf2-b54c-29676c95b9f9",
+      "name": "清蒸鳜鱼",
+      "slug": "qing-zheng-jue-yu",
+      "image": "FRzz",
+      "calories": 359,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "654c215d-5231-4ed0-8b29-1a1325d6bf26",
+      "name": "湖南家常红烧肉",
+      "slug": "hu-nan-jia-chang-hong-shao-rou",
+      "image": "z4c4",
+      "calories": 1348,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7e0826d1-ab29-4db3-b2fd-6313c226f43d",
+      "name": "湘祁米夫鸭",
+      "slug": "xiang-qi-mi-fu-ya",
+      "image": "sXru",
+      "calories": 1332,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8df2c0c5-e95d-49f1-84e2-0d6384c5cc96",
+      "name": "烤鸡翅",
+      "slug": "kao-ji-chi",
+      "image": "PRco",
+      "calories": 187,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "7ed5265e-6e1a-4166-9212-c1782ea9e583",
+      "name": "澳门湿版免治牛肉饭",
+      "slug": "ao-men-shi-ban-mian-zhi-niu-rou-fan",
+      "image": "nTVh",
+      "calories": 1011,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "c00b1060-e9ad-41c7-9d6c-7920357e8fe3",
+      "name": "煎烤羊排",
+      "slug": "jian-kao-yang-pai",
+      "image": "igeI",
+      "calories": 1850,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6a3cb25f-5ae6-4425-8110-3c8e44c13396",
+      "name": "牛排",
+      "slug": "niu-pai",
+      "image": "N15B",
+      "calories": 1605,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e695a31e-5a54-4bf0-868b-f22e04b67c48",
+      "name": "猪皮冻",
+      "slug": "zhu-pi-dong",
+      "image": "EGaL",
+      "calories": 1630,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d19531ad-45c1-4fd9-8bdc-e90d26e06a11",
+      "name": "猪肉烩酸菜",
+      "slug": "zhu-rou-hui-suan-cai",
+      "image": "5MyG",
+      "calories": 1817,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6eecd2e2-f731-4e60-8ecc-0862d53e8146",
+      "name": "甜辣烤全翅",
+      "slug": "tian-la-kao-quan-chi",
+      "image": "eDFz",
+      "calories": 775,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "afc0c148-7d35-4699-9a3a-a30e2708c657",
+      "name": "田螺酿",
+      "slug": "tian-luo-niang",
+      "image": "K5eG",
+      "calories": 533,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "345bb6af-2628-424e-8aad-0d81a0dd59e9",
+      "name": "番茄红酱",
+      "slug": "fan-qie-hong-jiang",
+      "image": "O7yj",
+      "calories": 1955,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "41f23453-3c36-4c04-9d04-cabbb92d42c8",
+      "name": "瘦肉土豆片",
+      "slug": "shou-rou-tu-dou-pian",
+      "image": "FY3T",
+      "calories": 585,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "89933e98-61ad-4f69-bf29-ceac24524dde",
+      "name": "白菜猪肉炖粉条",
+      "slug": "bai-cai-zhu-rou-tun-fen-tiao",
+      "image": "WHLH",
+      "calories": 1880,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9dfdfd8c-0b0d-4d36-a609-ec6426969daa",
+      "name": "空气炸锅脆皮现腌炸鸡",
+      "slug": "kong-qi-zha-guo-cui-pi-xian-an-zha-ji",
+      "image": "RSVF",
+      "calories": 700,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c72f8350-a840-4cae-9dc2-aceead7c20e9",
+      "name": "粉蒸肉",
+      "slug": "fen-zheng-rou",
+      "image": "pvoQ",
+      "calories": 1606,
+      "servings": 3,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4bedfa2e-47b9-4f8b-836c-9719a177119a",
+      "name": "糖醋排骨",
+      "slug": "tang-cu-pai-gu",
+      "image": "E4y7",
+      "calories": 1022,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e80179c3-6409-4191-9ab6-7b385a0f4f28",
+      "name": "糖醋里脊",
+      "slug": "tang-cu-li-ji",
+      "image": "kUGx",
+      "calories": 1573,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ede2f02a-8c8c-459c-b3fb-2f39c3efd494",
+      "name": "红烧猪蹄",
+      "slug": "hong-shao-zhu-ti",
+      "image": "6d8v",
+      "calories": 639,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6172cba0-db95-42c0-b0d5-5217c5b696ff",
+      "name": "南派红烧肉",
+      "slug": "nan-pai-hong-shao-rou",
+      "image": "ZshN",
+      "calories": 3248,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "cac1797c-83a9-4cbc-93d7-0d9dc8ead878",
+      "name": "简易红烧肉",
+      "slug": "jian-yi-hong-shao-rou",
+      "image": "1tpk",
+      "calories": 2775,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1c6c9cd2-faed-4c5d-b3c0-05af7a483d02",
+      "name": "羊排焖面",
+      "slug": "yang-pai-men-mian",
+      "image": "WqOV",
+      "calories": 1616,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d9be2b5b-9292-4835-91b0-5b3ea82f337d",
+      "name": "红烧鸡翅",
+      "slug": "hong-shao-ji-chi",
+      "image": "axTT",
+      "calories": 1016,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "47b700d1-5143-445f-b876-03068845a5b7",
+      "name": "老妈蹄花",
+      "slug": "lao-ma-ti-hua",
+      "image": "xVXS",
+      "calories": 1425,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4d3e963e-c92d-4eeb-883c-5c41362fb9bf",
+      "name": "老式锅包肉",
+      "slug": "lao-shi-guo-bao-rou",
+      "image": "fGgX",
+      "calories": 882,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a7560ecb-a529-4a44-85c3-82426e7ab380",
+      "name": "肉饼炖蛋",
+      "slug": "rou-bing-tun-dan",
+      "image": "2ilI",
+      "calories": 1124,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "267b16df-9fbe-4fc7-b0c4-d678fd9369f3",
+      "name": "腐乳肉",
+      "slug": "fu-ru-rou",
+      "image": "cmj3",
+      "calories": 1190,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "237f579b-3490-4f41-8301-67177ab38400",
+      "name": "芥末罗氏虾",
+      "slug": "jie-mo-luo-shi-xia",
+      "image": "dYk0",
+      "calories": 579,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4200ce0e-8ec1-4cfb-bea2-a1aea5c1e6ee",
+      "name": "茭白炒肉",
+      "slug": "jiao-bai-chao-rou",
+      "image": "53J8",
+      "calories": 515,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "dafac50d-ab06-4821-b04d-21991febbf1e",
+      "name": "荔枝肉",
+      "slug": "li-zhi-rou",
+      "image": "LhBH",
+      "calories": 681,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "dd62cd42-61fa-4e41-acb7-e1f09b7cb757",
+      "name": "萝卜炖羊排",
+      "slug": "luo-bu-tun-yang-pai",
+      "image": "MrZv",
+      "calories": 1259,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ff445adc-a054-4a5e-9911-a7925baef289",
+      "name": "荷兰豆炒腊肠",
+      "slug": "he-lan-dou-chao-la-chang",
+      "image": "qm8H",
+      "calories": 606,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "7ca104d0-b7f0-4874-aaa8-02ecaec00d02",
+      "name": "葱烧鸡腿",
+      "slug": "cong-shao-ji-tui",
+      "image": "tBIh",
+      "calories": 850,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "9ad05b2e-55fc-4846-89b4-565cc09e058f",
+      "name": "蒜苔炒肉末",
+      "slug": "suan-tai-chao-rou-mo",
+      "image": "AVw9",
+      "calories": 258,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "46574442-3e8d-4d56-9d0b-0622841378dd",
+      "name": "虎皮肘子",
+      "slug": "hu-pi-zhou-zi",
+      "image": "Iy7i",
+      "calories": 1018,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "60ef1f49-77c7-40a8-a5a1-f50584a92122",
+      "name": "蚂蚁上树",
+      "slug": "ma-yi-shang-shu",
+      "image": "3UKp",
+      "calories": 791,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a898ad8f-965e-41aa-8148-32111a8b6d9e",
+      "name": "血浆鸭",
+      "slug": "xie-jiang-ya",
+      "image": "hlg7",
+      "calories": 2482,
+      "servings": 4,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d37924cb-e81e-444d-a9d8-1aed1d8be8c6",
+      "name": "西红柿土豆炖牛肉",
+      "slug": "xi-hong-shi-tu-dou-tun-niu-rou",
+      "image": "XamR",
+      "calories": 827,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "86371fbc-c5ce-4202-94b7-a1911cac5389",
+      "name": "西红柿牛腩",
+      "slug": "xi-hong-shi-niu-nan",
+      "image": "bO8g",
+      "calories": 1569,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f6a3d213-9062-45bd-877e-5c7d2c4ff126",
+      "name": "豆豉鲮鱼油麦菜",
+      "slug": "dou-shi-ling-yu-you-mai-cai",
+      "image": "PRAb",
+      "calories": 416,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "b88ca7de-cae8-4311-85c9-e4199c070b04",
+      "name": "豉汁排骨",
+      "slug": "shi-zhi-pai-gu",
+      "image": "S6SE",
+      "calories": 1513,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "b14b9019-6ae3-4e21-8ae2-7d02d26ed574",
+      "name": "豉汁蒸白鱔",
+      "slug": "shi-zhi-zheng-bai-shan",
+      "image": "yw6e",
+      "calories": 472,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "3bd80798-c833-4970-8663-d34e8bdd854b",
+      "name": "贵州辣子鸡",
+      "slug": "gui-zhou-la-zi-ji",
+      "image": "lVbg",
+      "calories": 1441,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c5c6ab11-45f0-4545-b1b1-c273940e444f",
+      "name": "辣椒炒肉",
+      "slug": "la-jiao-chao-rou",
+      "image": "NSjG",
+      "calories": 425,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f39b0aac-a17c-4485-8502-595672980ba2",
+      "name": "酱排骨",
+      "slug": "jiang-pai-gu",
+      "image": "Zk5i",
+      "calories": 1351,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "807459ce-35bf-4e5d-adab-b17a7da6f468",
+      "name": "酱牛肉",
+      "slug": "jiang-niu-rou",
+      "image": "wuCJ",
+      "calories": 2265,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fd68ce44-7bdf-436b-81e6-4f43060cd7d6",
+      "name": "醉排骨",
+      "slug": "zui-pai-gu",
+      "image": "tIcl",
+      "calories": 934,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6b3f79c1-1d32-4e28-8be3-d52ca2b92502",
+      "name": "青椒土豆炒肉",
+      "slug": "qing-jiao-tu-dou-chao-rou",
+      "image": "xaK5",
+      "calories": 1288,
+      "servings": 2,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f1ae456b-82fc-485b-ab8b-fb0bbf009323",
+      "name": "青椒酿",
+      "slug": "qing-jiao-niang",
+      "image": "oOdk",
+      "calories": 1403,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2dc4ac3c-3fd5-40d0-a13c-ee859bd3d9cd",
+      "name": "香干肉丝",
+      "slug": "xiang-gan-rou-si",
+      "image": "eNym",
+      "calories": 472,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6d89fcc6-c8c9-4e18-9ec6-f78445e5d47a",
+      "name": "香干芹菜炒肉",
+      "slug": "xiang-gan-qin-cai-chao-rou",
+      "image": "GKIr",
+      "calories": 741,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "86dccbfd-c7d1-4389-bc0e-277cb3d8998a",
+      "name": "香菇滑鸡",
+      "slug": "xiang-gu-hua-ji",
+      "image": "q3ka",
+      "calories": 608,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "880a3439-5827-4461-9009-17b194216287",
+      "name": "香煎五花肉",
+      "slug": "xiang-jian-wu-hua-rou",
+      "image": "22Kx",
+      "calories": 2985,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5530ce0c-56ae-43ef-9e4e-4a8b6305106c",
+      "name": "香辣鸡爪煲",
+      "slug": "xiang-la-ji-zhua-bao",
+      "image": "BhM3",
+      "calories": 986,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c225c037-d5d9-4114-a4ac-b41c15ed5326",
+      "name": "鱼香肉丝",
+      "slug": "yu-xiang-rou-si",
+      "image": "8VdK",
+      "calories": 421,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1bf0b2c0-574f-4ff1-8da1-61980e6b5df1",
+      "name": "鱼香茄子",
+      "slug": "yu-xiang-qie-zi",
+      "image": "ujZl",
+      "calories": 579,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ad004cce-d8b5-49e4-bdc2-c07901b130fe",
+      "name": "麻婆豆腐",
+      "slug": "ma-po-dou-fu",
+      "image": "hPim",
+      "calories": 476,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "71f3e470-91ea-4e16-9785-9cf92f7c6760",
+      "name": "麻辣香锅",
+      "slug": "ma-la-xiang-guo",
+      "image": "kwq8",
+      "calories": 1050,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6ccc5100-39c5-4c23-ad06-066a520ac934",
+      "name": "黄油鸡",
+      "slug": "huang-you-ji",
+      "image": "KsIp",
+      "calories": 641,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ee835c2f-0d4e-4c2d-8770-149d76c66458",
+      "name": "黄焖鸡",
+      "slug": "huang-men-ji",
+      "image": "nKVw",
+      "calories": 766,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "b2c5f20d-bf71-454c-8242-fea38d9bf450",
+      "name": "黄瓜炒肉",
+      "slug": "huang-gua-chao-rou",
+      "image": "hwwq",
+      "calories": 550,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2b0e062b-01bf-470d-988c-76041881eafa",
+      "name": "黑椒牛柳",
+      "slug": "hei-jiao-niu-liu",
+      "image": "uq8b",
+      "calories": 216,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8b50c364-1a4a-4f48-a1bc-db20d88c697c",
+      "name": "黔式腊肠娃娃菜",
+      "slug": "qian-shi-la-chang-wa-wa-cai",
+      "image": "UvY4",
+      "calories": 1030,
+      "servings": 1,
+      "categories": [
+        "荤菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "0fcc72f5-9511-4319-b79b-5af7ff7f8545",
+      "name": "凉皮",
+      "slug": "liang-pi",
+      "image": "Kl6A",
+      "calories": 761,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ba9f37ac-90c2-456c-ae03-6b1a91a5b6a3",
+      "name": "半成品意面",
+      "slug": "ban-cheng-pin-yi-mian",
+      "image": "z1ga",
+      "calories": 578,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "03b86b27-1ede-463a-adfa-a1ec0fdd6928",
+      "name": "懒人蛋挞",
+      "slug": "lan-ren-dan-ta",
+      "image": "f7ow",
+      "calories": 137,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a649d42a-61a8-4ab6-9581-f8a49adf8fb6",
+      "name": "炸薯条",
+      "slug": "zha-shu-tiao",
+      "image": "UFZE",
+      "calories": 1132,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "0898d42f-4dee-4520-91a7-33cfb7169e6b",
+      "name": "牛油火锅底料",
+      "slug": "niu-you-huo-guo-di-liao",
+      "image": "hASl",
+      "calories": 585,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4411bffe-a925-45e9-868f-4a30f47c5671",
+      "name": "空气炸锅羊排",
+      "slug": "kong-qi-zha-guo-yang-pai",
+      "image": "Xqmg",
+      "calories": 473,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "643c4041-f565-4bed-ba98-23abc75ad269",
+      "name": "空气炸锅鸡翅中",
+      "slug": "kong-qi-zha-guo-ji-chi-zhong",
+      "image": "26aH",
+      "calories": 504,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "2d2a9ecf-a7da-48c0-b3b7-7abdada0716f",
+      "name": "速冻水饺",
+      "slug": "su-dong-shui-jiao",
+      "image": "vfvx",
+      "calories": 502,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "3c297f93-9c1c-447a-9320-fc6d0cfd5951",
+      "name": "速冻汤圆",
+      "slug": "su-dong-tang-yuan",
+      "image": "lC3v",
+      "calories": 568,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "9e4ac161-be68-4465-9630-95f572f02547",
+      "name": "勾芡香菇汤",
+      "slug": "gou-qian-xiang-gu-tang",
+      "image": "PXCm",
+      "calories": 146,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "23d4e774-2a3d-437b-860a-37ba55c24091",
+      "name": "速冻馄饨",
+      "slug": "su-dong-hun-tun",
+      "image": "gXeQ",
+      "calories": 540,
+      "servings": 1,
+      "categories": [
+        "半成品"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "97dc097b-8f4c-4543-81b3-4fc59ef722e4",
+      "name": "奶油蘑菇汤",
+      "slug": "nai-you-mo-gu-tang",
+      "image": "VGrg",
+      "calories": 426,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "fba97cc0-171d-4db4-9503-1ff32678250e",
+      "name": "小米粥",
+      "slug": "xiao-mi-zhou",
+      "image": "Mo8l",
+      "calories": 362,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "1705763e-85d2-494f-810c-0d419f3f2028",
+      "name": "山药南瓜炖鸡汤",
+      "slug": "shan-yao-nan-gua-tun-ji-tang",
+      "image": "xW2Y",
+      "calories": 620,
+      "servings": 2,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "d8d28009-8c94-4a64-9d45-0c9e9c87d08a",
+      "name": "排骨山药玉米汤",
+      "slug": "pai-gu-shan-yao-yu-mi-tang",
+      "image": "AUdG",
+      "calories": 1054,
+      "servings": 2,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "97013f02-af50-4a73-ab1f-488bf2a7bd16",
+      "name": "排骨苦瓜汤",
+      "slug": "pai-gu-ku-gua-tang",
+      "image": "4KMC",
+      "calories": 905,
+      "servings": 4,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "47f1ba45-eab2-47d0-84aa-576c99396dbe",
+      "name": "朱雀汤",
+      "slug": "zhu-que-tang",
+      "image": "c2CT",
+      "calories": 168,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "95e3f59f-6cb3-40f7-884b-15f3da8fbf77",
+      "name": "昂刺鱼豆腐汤",
+      "slug": "ang-ci-yu-dou-fu-tang",
+      "image": "aGTZ",
+      "calories": 321,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a9f28c29-0828-4820-a397-76aad9ae2573",
+      "name": "玉米排骨汤",
+      "slug": "yu-mi-pai-gu-tang",
+      "image": "Jzxf",
+      "calories": 1724,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8e11efb7-5afd-4df0-9506-6015bc5c46c6",
+      "name": "生汆丸子汤",
+      "slug": "sheng-cuan-wan-zi-tang",
+      "image": "aWri",
+      "calories": 857,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "e28389b9-5241-4cad-90ec-8dec694958c8",
+      "name": "番茄牛肉蛋花汤",
+      "slug": "fan-qie-niu-rou-dan-hua-tang",
+      "image": "l0Xp",
+      "calories": 262,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "757ffba5-23ce-4bc6-b135-764cc3374743",
+      "name": "皮蛋瘦肉粥",
+      "slug": "pi-dan-shou-rou-zhou",
+      "image": "bsfB",
+      "calories": 776,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1e71630d-172d-4841-a922-3057787c5f1b",
+      "name": "米粥",
+      "slug": "mi-zhou",
+      "image": "9mwW",
+      "calories": 308,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "500c6d20-5fc3-46b0-94c2-2822d5003722",
+      "name": "紫菜蛋花汤",
+      "slug": "zi-cai-dan-hua-tang",
+      "image": "4iWB",
+      "calories": 217,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "6f6f965e-5050-4217-92a0-8c8d9be601f8",
+      "name": "罗宋汤",
+      "slug": "luo-song-tang",
+      "image": "L5Ns",
+      "calories": 2006,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "efc6a352-06b4-41e0-878d-57b5d30c2f55",
+      "name": "羊肉汤",
+      "slug": "yang-rou-tang",
+      "image": "KpJG",
+      "calories": 599,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8da56f7c-2840-4c0f-9738-f40efcc1c236",
+      "name": "腊八粥",
+      "slug": "la-ba-zhou",
+      "image": "y7Wz",
+      "calories": 2042,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "223519c5-459d-4132-ba1a-bb236d924f15",
+      "name": "菌菇炖乳鸽",
+      "slug": "jun-gu-tun-ru-ge",
+      "image": "dsnu",
+      "calories": 324,
+      "servings": 2,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "23be0fc1-6939-4d01-a7ad-91c78639bd46",
+      "name": "西红柿鸡蛋汤",
+      "slug": "xi-hong-shi-ji-dan-tang",
+      "image": "XWYT",
+      "calories": 258,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "21de2b7e-3bf0-4c74-84e2-f5e3495646a6",
+      "name": "金针菇汤",
+      "slug": "jin-zhen-gu-tang",
+      "image": "omHb",
+      "calories": 149,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "46be5772-4e23-4bf5-8575-eea7fd9a1223",
+      "name": "银耳莲子粥",
+      "slug": "yin-er-lian-zi-zhou",
+      "image": "yNhJ",
+      "calories": 282,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "16efb9b2-0a00-4454-bc7c-f720faffd9c1",
+      "name": "陈皮排骨汤",
+      "slug": "chen-pi-pai-gu-tang",
+      "image": "CeXG",
+      "calories": 365,
+      "servings": 1,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "35866972-4af7-4491-896f-3fe2a8c91a84",
+      "name": "黄瓜皮蛋汤",
+      "slug": "huang-gua-pi-dan-tang",
+      "image": "0FaC",
+      "calories": 311,
+      "servings": 2,
+      "categories": [
+        "汤"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "6a0cb327-b16c-49ce-82bd-efb26f89612b",
+      "name": "中式馅饼",
+      "slug": "zhong-shi-xian-bing",
+      "image": "0VfK",
+      "calories": 1265,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "b6f37cb9-c85f-4952-a69d-deffbec6a5ac",
+      "name": "凉粉",
+      "slug": "liang-fen",
+      "image": "tfVO",
+      "calories": 539,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1ad40f2c-fea3-44d8-a3f9-c31e7a908440",
+      "name": "利提巧卡",
+      "slug": "li-ti-qiao-qia",
+      "image": "NWLe",
+      "calories": 1019,
+      "servings": 2,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6ee03c0a-7a21-43d1-972e-abdedb09ee6c",
+      "name": "印度烤饼",
+      "slug": "yin-du-kao-bing",
+      "image": "asLv",
+      "calories": 559,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "21f03889-2af1-40fe-a2f5-d6a8d865ab3e",
+      "name": "印度焖饭",
+      "slug": "yin-du-men-fan",
+      "image": "Hb7v",
+      "calories": 730,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d917c9a6-e33a-423c-ba6e-15d77abf40cc",
+      "name": "可乐炒饭",
+      "slug": "ke-le-chao-fan",
+      "image": "iNLg",
+      "calories": 913,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "becfa58a-8fbd-4fed-b0fc-3e06ed97e834",
+      "name": "咸肉菜饭",
+      "slug": "xian-rou-cai-fan",
+      "image": "4Vvz",
+      "calories": 847,
+      "servings": 3,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8c21f770-1785-494e-86e3-265c9ed8c6a1",
+      "name": "基础牛奶面包",
+      "slug": "ji-chu-niu-nai-mian-bao",
+      "image": "WfOe",
+      "calories": 2048,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6510eb10-dd9c-4385-999d-f2f07af1d5a3",
+      "name": "意式肉酱面",
+      "slug": "yi-shi-rou-jiang-mian",
+      "image": "wOal",
+      "calories": 1199,
+      "servings": 2,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "6051c7e9-508f-43f6-a01a-2c8fbde62b1a",
+      "name": "微波炉腊肠煲仔饭",
+      "slug": "wei-bo-lu-la-chang-bao-zi-fan",
+      "image": "cL2v",
+      "calories": 1039,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "39e2768c-6171-48d9-830d-9b5ac50f528a",
+      "name": "手工水饺",
+      "slug": "shou-gong-shui-jiao",
+      "image": "Ljdc",
+      "calories": 1313,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "15951a3b-fecf-4da7-970d-50627259ef25",
+      "name": "扬州炒饭",
+      "slug": "yang-zhou-chao-fan",
+      "image": "mkRe",
+      "calories": 1769,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fca27553-ddb0-4108-9130-23d1b21fa2e1",
+      "name": "披萨饼皮",
+      "slug": "pi-sa-bing-pi",
+      "image": "kRiT",
+      "calories": 537,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "596f0190-2953-49ab-acb0-8d64361c014c",
+      "name": "日式咖喱饭",
+      "slug": "ri-shi-ka-li-fan",
+      "image": "ncHt",
+      "calories": 730,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a2743a18-470e-4172-91aa-dbb69d85b4ee",
+      "name": "日式肥牛丼饭",
+      "slug": "ri-shi-fei-niu-jing-fan",
+      "image": "Vdx8",
+      "calories": 774,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "93100541-42ca-4234-a4bd-75551911213d",
+      "name": "河南蒸面条",
+      "slug": "he-nan-zheng-mian-tiao",
+      "image": "Tu9A",
+      "calories": 3066,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "917a2dc1-7ae6-4b67-8b91-a6b704b70870",
+      "name": "汤面",
+      "slug": "tang-mian",
+      "image": "1595",
+      "calories": 565,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "b257608f-dd80-46b0-8e2f-2243497c2adb",
+      "name": "滕州菜煎饼",
+      "slug": "teng-zhou-cai-jian-bing",
+      "image": "uqTS",
+      "calories": 800,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "ddebb65b-ddcf-419b-9d04-232b7c3a0898",
+      "name": "火腿饭团",
+      "slug": "huo-tui-fan-tuan",
+      "image": "9WwK",
+      "calories": 665,
+      "servings": 2,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c9dd8442-db85-4773-810d-b18c4d57dab7",
+      "name": "炒凉粉",
+      "slug": "chao-liang-fen",
+      "image": "rmwJ",
+      "calories": 567,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6b940d99-612f-4895-a8aa-37fa10b281e2",
+      "name": "炒年糕",
+      "slug": "chao-nian-gao",
+      "image": "JHuq",
+      "calories": 960,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f835cde4-f622-4940-b815-4edee088807e",
+      "name": "炒意大利面",
+      "slug": "chao-yi-da-li-mian",
+      "image": "f9cr",
+      "calories": 406,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c8cea05a-bff5-4ee2-a30d-e1e113b80088",
+      "name": "炒方便面",
+      "slug": "chao-fang-bian-mian",
+      "image": "kQIr",
+      "calories": 789,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "abef1877-14cc-4b1a-a23e-56a19d019e1e",
+      "name": "炒河粉",
+      "slug": "chao-he-fen",
+      "image": "fcSu",
+      "calories": 822,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "04991882-4407-44ae-b0c1-067c57b1461c",
+      "name": "炒馍",
+      "slug": "chao-mo",
+      "image": "jKqh",
+      "calories": 767,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "1ae86930-0171-48ec-a839-45f6e8a6e283",
+      "name": "炸酱面",
+      "slug": "zha-jiang-mian",
+      "image": "OXU4",
+      "calories": 1272,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "27a7023e-7236-4c7c-8ab6-9e9f71a1fc00",
+      "name": "烙饼",
+      "slug": "luo-bing",
+      "image": "LGCb",
+      "calories": 1185,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "fa5f542e-5de0-4929-bf73-c5cac2fb6138",
+      "name": "芝麻烧饼",
+      "slug": "zhi-ma-shao-bing",
+      "image": "ZWkA",
+      "calories": 282,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "517f56d6-f1ad-4600-babb-bbf81e0d8faa",
+      "name": "热干面",
+      "slug": "re-gan-mian",
+      "image": "fQFN",
+      "calories": 1341,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9762f1b8-e96e-45b4-95a9-a89d122fe49e",
+      "name": "照烧鸡腿饭",
+      "slug": "zhao-shao-ji-tui-fan",
+      "image": "V90h",
+      "calories": 1670,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "98811bbb-9270-48a3-96cc-56f06741e38a",
+      "name": "煮泡面加蛋",
+      "slug": "zhu-pao-mian-jia-dan",
+      "image": "X0om",
+      "calories": 550,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "fbae6590-95a1-47f7-8bfe-b2f14d53e861",
+      "name": "猪油拌饭",
+      "slug": "zhu-you-ban-fan",
+      "image": "X6S7",
+      "calories": 420,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "91f272ec-1dd7-440f-9b2f-5f716086429e",
+      "name": "电饭煲三文鱼炊饭",
+      "slug": "dian-fan-bao-san-wen-yu-chui-fan",
+      "image": "Pa1p",
+      "calories": 889,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "84e869a3-4e1f-4663-82c2-76bb78fa71fd",
+      "name": "空气炸锅照烧鸡饭",
+      "slug": "kong-qi-zha-guo-zhao-shao-ji-fan",
+      "image": "JcQx",
+      "calories": 1854,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "da8bbaef-8b44-46ae-aa44-64f5802e68db",
+      "name": "煮锅蒸米饭",
+      "slug": "zhu-guo-zheng-mi-fan",
+      "image": "Vg4q",
+      "calories": 418,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "5ee59aca-487f-4668-b7b6-fd88a5bfb95c",
+      "name": "电饭煲蒸米饭",
+      "slug": "dian-fan-bao-zheng-mi-fan",
+      "image": "T7tw",
+      "calories": 442,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "49b88389-9aef-46b4-89f6-14d4131d734a",
+      "name": "红芸豆拌饭",
+      "slug": "hong-yun-dou-ban-fan",
+      "image": "h0wq",
+      "calories": 1842,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "946db1e7-c3ca-47d3-9d91-ced82d16e2b9",
+      "name": "老友猪肉粉",
+      "slug": "lao-you-zhu-rou-fen",
+      "image": "p0AY",
+      "calories": 927,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "38dc3936-4566-4605-bbce-230721327db0",
+      "name": "老干妈拌面",
+      "slug": "lao-gan-ma-ban-mian",
+      "image": "6sqr",
+      "calories": 502,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "ea876a8a-fa09-4cc2-82a0-3aaf702d8624",
+      "name": "肉蛋盖饭",
+      "slug": "rou-dan-gai-fan",
+      "image": "2NPt",
+      "calories": 1822,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "2ae09733-c013-407a-9321-284943f91fb9",
+      "name": "茄子肉煎饼",
+      "slug": "qie-zi-rou-jian-bing",
+      "image": "kBcZ",
+      "calories": 904,
+      "servings": 2,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5a85b5ea-4567-4bc5-b6a7-d25f4fbababe",
+      "name": "葱油拌面",
+      "slug": "cong-you-ban-mian",
+      "image": "iV4r",
+      "calories": 355,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "ddaed4a9-da4d-410b-af38-71f7ea37fab4",
+      "name": "蒸卤面",
+      "slug": "zheng-lu-mian",
+      "image": "OhU3",
+      "calories": 1563,
+      "servings": 2,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "f1917c7c-0229-4d07-9005-91f40e86078e",
+      "name": "蛋包饭",
+      "slug": "dan-bao-fan",
+      "image": "ixQ0",
+      "calories": 695,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "c4cb4c92-22f4-40e9-a368-8af90de2d9d9",
+      "name": "蛋炒饭",
+      "slug": "dan-chao-fan",
+      "image": "sHkl",
+      "calories": 853,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "823b8cff-aaa4-433d-96f2-44ddaa38c7f2",
+      "name": "螺蛳粉",
+      "slug": "luo-si-fen",
+      "image": "5yc2",
+      "calories": 1109,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "950395ee-10f0-4a4a-abb7-5a758db945cc",
+      "name": "西红柿鸡蛋挂面",
+      "slug": "xi-hong-shi-ji-dan-gua-mian",
+      "image": "7YhR",
+      "calories": 654,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "3d782770-3e32-4699-bd64-28cb14da6de8",
+      "name": "豆角焖面",
+      "slug": "dou-jiao-men-mian",
+      "image": "6nkq",
+      "calories": 1386,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "6954ce2a-1a37-4b1b-a9cd-18baa794ec29",
+      "name": "酱拌荞麦面",
+      "slug": "jiang-ban-qiao-mai-mian",
+      "image": "AqsK",
+      "calories": 475,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "0f3a83a9-fbbb-45a3-9caf-d954fc4d9362",
+      "name": "酸辣蕨根粉",
+      "slug": "suan-la-jue-gen-fen",
+      "image": "eMQ6",
+      "calories": 318,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a1325e02-115e-4100-be1e-f9f88c100546",
+      "name": "醪糟小汤圆",
+      "slug": "lao-zao-xiao-tang-yuan",
+      "image": "e5de",
+      "calories": 957,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "bf542024-7f6e-4175-8cf1-6f3faaa80a4b",
+      "name": "韩式拌饭",
+      "slug": "han-shi-ban-fan",
+      "image": "Vav1",
+      "calories": 1080,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "10b8bb67-07b1-4e94-bf81-c8537eaf429a",
+      "name": "陕西油泼面",
+      "slug": "shan-xi-you-po-mian",
+      "image": "lamb",
+      "calories": 771,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "57dffd66-01c8-4fde-9e3a-fdeea8a5c2df",
+      "name": "韭菜盒子",
+      "slug": "jiu-cai-he-zi",
+      "image": "L8Xm",
+      "calories": 794,
+      "servings": 2,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "724b130c-3077-44da-9568-657a123a03fd",
+      "name": "鲜肉烧卖",
+      "slug": "xian-rou-shao-mai",
+      "image": "ku0O",
+      "calories": 1485,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "56cbd059-4cdb-46f4-81ba-6ef6e6581d91",
+      "name": "鲣鱼海苔玉米饭",
+      "slug": "jian-yu-hai-tai-yu-mi-fan",
+      "image": "znLT",
+      "calories": 383,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "302e647d-023c-4d7a-822d-dd4ecfa12e58",
+      "name": "鹰嘴豆炸饼",
+      "slug": "ying-zui-dou-zha-bing",
+      "image": "vK8u",
+      "calories": 1098,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8520ea4e-9738-4444-8ac0-2a308c2f4238",
+      "name": "麻油拌面",
+      "slug": "ma-you-ban-mian",
+      "image": "LjGB",
+      "calories": 451,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "4a763647-633d-4036-af5b-bd3d3c7ef6d9",
+      "name": "麻辣减脂荞麦面",
+      "slug": "ma-la-jian-zhi-qiao-mai-mian",
+      "image": "3lL4",
+      "calories": 790,
+      "servings": 1,
+      "categories": [
+        "主食"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "49f9a6b2-2346-4f8a-a303-f2f7888f0f70",
+      "name": "上汤娃娃菜",
+      "slug": "shang-tang-wa-wa-cai",
+      "image": "oIpM",
+      "calories": 158,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "04b576e4-f7c6-47fe-815f-d4da633a749e",
+      "name": "乾隆白菜",
+      "slug": "gan-long-bai-cai",
+      "image": "hEs8",
+      "calories": 150,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "c36bca4c-7bb0-4934-9969-6a3b26a05f11",
+      "name": "凉拌木耳",
+      "slug": "liang-ban-mu-er",
+      "image": "GDYR",
+      "calories": 129,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "3db0d965-51a9-48fe-8ee1-c27f095baf9b",
+      "name": "凉拌莴笋",
+      "slug": "liang-ban-wo-sun",
+      "image": "nO2B",
+      "calories": 295,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "24ede187-46b8-4e4e-b9e7-5b3a29a7e75d",
+      "name": "凉拌油麦菜",
+      "slug": "liang-ban-you-mai-cai",
+      "image": "x6DC",
+      "calories": 191,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "260181c8-9a0c-47e8-89c5-a34d8dab139c",
+      "name": "凉拌豆腐",
+      "slug": "liang-ban-dou-fu",
+      "image": "4x6v",
+      "calories": 343,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "9a885a62-25b8-4f37-81c8-923beccee537",
+      "name": "凉拌金针菇",
+      "slug": "liang-ban-jin-zhen-gu",
+      "image": "eCwx",
+      "calories": 163,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a031e52b-344f-4697-b9e0-a1680cd38736",
+      "name": "凉拌黄瓜",
+      "slug": "liang-ban-huang-gua",
+      "image": "SrjX",
+      "calories": 107,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "069e1aeb-d7b3-4179-b73f-30c44b2d0c94",
+      "name": "包菜炒鸡蛋粉丝",
+      "slug": "bao-cai-chao-ji-dan-fen-si",
+      "image": "DD27",
+      "calories": 570,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "0b92b51a-664c-462b-8a29-63129c9b91c3",
+      "name": "印度土豆花菜",
+      "slug": "yin-du-tu-dou-hua-cai",
+      "image": "r1D8",
+      "calories": 668,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "9f761d3f-61ed-424c-b1d3-1a5a7669bab1",
+      "name": "印度葫芦丸子",
+      "slug": "yin-du-hu-lu-wan-zi",
+      "image": "5Acx",
+      "calories": 571,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "8a4e9500-2964-432d-9809-7a21b08e812b",
+      "name": "地三鲜",
+      "slug": "di-san-xian",
+      "image": "gFm5",
+      "calories": 264,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "a2c5128a-424e-43e1-a790-85d049ecea71",
+      "name": "家常日本豆腐",
+      "slug": "jia-chang-ri-ben-dou-fu",
+      "image": "5gfT",
+      "calories": 946,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d20e471f-a217-46bc-b77d-0b8ef55b98da",
+      "name": "小炒藕丁",
+      "slug": "xiao-chao-ou-ding",
+      "image": "ATfm",
+      "calories": 214,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "30a79712-d666-4f44-b0c1-29f775f32097",
+      "name": "干锅花菜",
+      "slug": "gan-guo-hua-cai",
+      "image": "OcEV",
+      "calories": 759,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "ad56a308-2cbc-4fc6-941c-69742557bb63",
+      "name": "手撕包菜",
+      "slug": "shou-si-bao-cai",
+      "image": "WiXG",
+      "calories": 1663,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "0c7978da-2f90-47a9-adda-c805a0e7e9f3",
+      "name": "拔丝土豆",
+      "slug": "ba-si-tu-dou",
+      "image": "Y7hR",
+      "calories": 1158,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "bacfca90-507e-4c84-bfae-b31238a3da05",
+      "name": "松仁玉米",
+      "slug": "song-ren-yu-mi",
+      "image": "p4wL",
+      "calories": 580,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "e05f2b50-9c1a-4003-bd7d-2cbd77e27403",
+      "name": "椒盐玉米",
+      "slug": "jiao-yan-yu-mi",
+      "image": "qUrx",
+      "calories": 693,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "faa31a6d-a30b-494f-a364-5b06613ff0d2",
+      "name": "榄菜肉末四季豆",
+      "slug": "lan-cai-rou-mo-si-ji-dou",
+      "image": "JNPr",
+      "calories": 720,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "470709f7-242b-45d7-be90-24d77dbab3e1",
+      "name": "水油焖蔬菜",
+      "slug": "shui-you-men-shu-cai",
+      "image": "5Vef",
+      "calories": 92,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "c77f06d6-4a61-4374-979a-1e41861e5c94",
+      "name": "洋葱炒鸡蛋",
+      "slug": "yang-cong-chao-ji-dan",
+      "image": "tt3U",
+      "calories": 562,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "eaeb3f90-b57b-4b7f-b6eb-45063dbf8be7",
+      "name": "油醋爆蛋",
+      "slug": "you-cu-bao-dan",
+      "image": "Th3Y",
+      "calories": 471,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a034f3f1-664a-4bf0-8ccc-703e60bba532",
+      "name": "清炒花菜",
+      "slug": "qing-chao-hua-cai",
+      "image": "zjtK",
+      "calories": 211,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "f32fc44c-59cc-4478-8439-3c6200090abf",
+      "name": "清蒸南瓜",
+      "slug": "qing-zheng-nan-gua",
+      "image": "9mxL",
+      "calories": 80,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "6010726f-16b4-4f39-819c-045e6f63c285",
+      "name": "炒土豆和胡萝卜蒸菜",
+      "slug": "chao-tu-dou-he-hu-luo-bu-zheng-cai",
+      "image": "5jfa",
+      "calories": 610,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "b33dae7e-f6df-4236-9c3a-0ba534ab3fc5",
+      "name": "炒滑蛋",
+      "slug": "chao-hua-dan",
+      "image": "dVUT",
+      "calories": 391,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "5c42e835-d06c-458f-83a8-51eab54fe44d",
+      "name": "炒茄子",
+      "slug": "chao-qie-zi",
+      "image": "Q4yq",
+      "calories": 610,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "d25d301c-1dbe-4a9b-8032-7e559a8ad4f9",
+      "name": "炒青菜",
+      "slug": "chao-qing-cai",
+      "image": "mg9O",
+      "calories": 152,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "0f885e98-426c-424c-a320-bd050b9d7d51",
+      "name": "炸洋葱花",
+      "slug": "zha-yang-cong-hua",
+      "image": "jR7h",
+      "calories": 850,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "0d899a6e-22e1-4fca-ad1d-7ca8fed95573",
+      "name": "烤茄子",
+      "slug": "kao-qie-zi",
+      "image": "CPhl",
+      "calories": 145,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "684752a7-8ed8-42e5-80d2-89018154afc8",
+      "name": "白灼菜心",
+      "slug": "bai-zhuo-cai-xin",
+      "image": "XR5b",
+      "calories": 86,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "71769bab-849a-491f-a57b-73445b2fa203",
+      "name": "皮蛋豆腐",
+      "slug": "pi-dan-dou-fu",
+      "image": "x1Ke",
+      "calories": 566,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    },
+    {
+      "id": "7dddf8e1-3924-405f-8083-ba9ff7f76060",
+      "name": "糖拌西红柿",
+      "slug": "tang-ban-xi-hong-shi",
+      "image": "BzHb",
+      "calories": 104,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a9adb1c5-82de-47a9-88f6-ec799a041b0f",
+      "name": "素炒豆角",
+      "slug": "su-chao-dou-jiao",
+      "image": "R110",
+      "calories": 107,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "059c58f5-6cf2-47a4-ab06-5be49030adf9",
+      "name": "红烧茄子",
+      "slug": "hong-shao-qie-zi",
+      "image": "Hsit",
+      "calories": 547,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5df458c0-2dc8-4133-83bb-1937373b7d75",
+      "name": "红烧冬瓜",
+      "slug": "hong-shao-dong-gua",
+      "image": "E0pn",
+      "calories": 519,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "be6b5c4a-e9a5-4bf6-a34c-e0b5634bc81e",
+      "name": "脆皮豆腐",
+      "slug": "cui-pi-dou-fu",
+      "image": "mLuZ",
+      "calories": 840,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "3c309908-4212-4973-8dc9-a53293b32056",
+      "name": "芹菜拌茶树菇",
+      "slug": "qin-cai-ban-cha-shu-gu",
+      "image": "TnSl",
+      "calories": 127,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "60765e2d-053b-46cc-8222-e00b13688401",
+      "name": "茄子炖土豆",
+      "slug": "qie-zi-tun-tu-dou",
+      "image": "kCmH",
+      "calories": 623,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "19adca85-c7ce-452c-bfb1-de0529e5fa3f",
+      "name": "莴笋叶煎饼",
+      "slug": "wo-sun-xie-jian-bing",
+      "image": "Y8F1",
+      "calories": 477,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "e68aac24-e02d-4db9-89f3-f132132a7c0a",
+      "name": "菠菜炒鸡蛋",
+      "slug": "bo-cai-chao-ji-dan",
+      "image": "7BGp",
+      "calories": 350,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "bf77d6aa-aeac-4a1e-bfa2-167256199a69",
+      "name": "葱煎豆腐",
+      "slug": "cong-jian-dou-fu",
+      "image": "EVQB",
+      "calories": 364,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "34d7fad8-8009-4627-ab73-16923d9996c7",
+      "name": "蒜蓉炒芹菜",
+      "slug": "suan-rong-chao-qin-cai",
+      "image": "ns2s",
+      "calories": 150,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "ac357c71-c427-4205-9c27-9f82cd027476",
+      "name": "蒜蓉空心菜",
+      "slug": "suan-rong-kong-xin-cai",
+      "image": "ZS0N",
+      "calories": 440,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "c4f0c3f7-e2df-4a14-ab60-b024db19f87b",
+      "name": "蒜蓉西兰花",
+      "slug": "suan-rong-xi-lan-hua",
+      "image": "bYVL",
+      "calories": 187,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "95120ba3-2ba7-4db6-b3eb-41a1707d1ecd",
+      "name": "蒲烧茄子",
+      "slug": "pu-shao-qie-zi",
+      "image": "c7mC",
+      "calories": 326,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "5384aea2-0061-4760-a95d-1dedce8af9f1",
+      "name": "虎皮青椒",
+      "slug": "hu-pi-qing-jiao",
+      "image": "Q1Cq",
+      "calories": 341,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "03931ae2-7826-4a6d-aa85-377d2cc00d3c",
+      "name": "蚝油三鲜菇",
+      "slug": "ci-you-san-xian-gu",
+      "image": "i0fC",
+      "calories": 222,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "b8f6d1c0-8777-4d25-b1ac-00fde195f1f6",
+      "name": "蚝油生菜",
+      "slug": "ci-you-sheng-cai",
+      "image": "nwhG",
+      "calories": 125,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "bc5e5c45-1ea5-4a8f-8684-93ce9de3267b",
+      "name": "西红柿炒鸡蛋",
+      "slug": "xi-hong-shi-chao-ji-dan",
+      "image": "HMdn",
+      "calories": 252,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "75f3e482-8f86-4a95-bdb4-a510742d2b75",
+      "name": "西红柿豆腐汤羹",
+      "slug": "xi-hong-shi-dou-fu-tang-geng",
+      "image": "o4Sp",
+      "calories": 242,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a9187903-9417-4d98-a275-a2e9493baa8f",
+      "name": "西葫芦炒鸡蛋",
+      "slug": "xi-hu-lu-chao-ji-dan",
+      "image": "QVh6",
+      "calories": 224,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a9720c56-4d5d-4d0f-b7bf-e323e6ceb8b0",
+      "name": "话梅煮毛豆",
+      "slug": "hua-mei-zhu-mao-dou",
+      "image": "BaBo",
+      "calories": 454,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "8aaa923e-a6ca-468c-a36a-0652f5173fb7",
+      "name": "酸辣土豆丝",
+      "slug": "suan-la-tu-dou-si",
+      "image": "N67B",
+      "calories": 374,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "d1834e85-47e0-4771-a3ed-1ee76435d28e",
+      "name": "金针菇日本豆腐煲",
+      "slug": "jin-zhen-gu-ri-ben-dou-fu-bao",
+      "image": "TFpZ",
+      "calories": 606,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "c0d02505-e243-4c21-bf37-493900c19d53",
+      "name": "金钱蛋",
+      "slug": "jin-qian-dan",
+      "image": "98WT",
+      "calories": 427,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "4245ebed-935d-4983-80b4-3876dd0838c2",
+      "name": "陕北熬豆角",
+      "slug": "shan-bei-ao-dou-jiao",
+      "image": "zNw7",
+      "calories": 191,
+      "servings": 2,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "2bdc16aa-a20e-47f8-ac52-09fe128a4cea",
+      "name": "雷椒皮蛋",
+      "slug": "lei-jiao-pi-dan",
+      "image": "rRHE",
+      "calories": 448,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "f5c3255d-1a45-4182-a064-622388f5a86e",
+      "name": "韭菜炒蛋",
+      "slug": "jiu-cai-chao-dan",
+      "image": "twWM",
+      "calories": 180,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a5e5aaa2-750f-48d0-ba36-b140d686b986",
+      "name": "鸡蛋火腿炒黄瓜",
+      "slug": "ji-dan-huo-tui-chao-huang-gua",
+      "image": "apwa",
+      "calories": 337,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "643e6608-69f2-4b3f-ad60-c081317d7998",
+      "name": "微波炉鸡蛋羹",
+      "slug": "wei-bo-lu-ji-dan-geng",
+      "image": "NYNK",
+      "calories": 160,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "88c1b2af-67be-4c96-9e7a-aa29ac4fc50d",
+      "name": "蒸箱鸡蛋羹",
+      "slug": "zheng-xiang-ji-dan-geng",
+      "image": "dXJU",
+      "calories": 118,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "困难"
+      ]
+    },
+    {
+      "id": "10bb7b98-e59c-4966-ba9d-3c8e8df3eb1b",
+      "name": "鸡蛋羹",
+      "slug": "ji-dan-geng",
+      "image": "OVgB",
+      "calories": 168,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "中等"
+      ]
+    },
+    {
+      "id": "a97be897-a7df-4727-ae5d-4075618c78e3",
+      "name": "鸡蛋花",
+      "slug": "ji-dan-hua",
+      "image": "6amw",
+      "calories": 107,
+      "servings": 1,
+      "categories": [
+        "素菜"
+      ],
+      "tags": [
+        "简单"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{Ct as e}from"./Z7zO-HVY.js";import{N as t,O as n,S as r}from"./Bpd53_OI.js";function i(){let i=n(!1);return e(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:t(()=>i.value?void 0:{transition:`none !important`}),isBooted:r(i)}}export{i as t};

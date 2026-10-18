@@ -1,0 +1,1 @@
+import{Ct as e,F as t,W as n,kt as r}from"./Z7zO-HVY.js";import{m as i,p as a}from"./BkBivIvj.js";import{p as o}from"#entry";var s=n({__name:`image`,setup(n){let s=a(),c=i(),l=o();return e(()=>{let e=s.params.groupSlug||l.user.value?.groupSlug||``;c.replace(`/g/${e}/r/create/ai`)}),(e,n)=>(r(),t(`div`))}});export{s as default};

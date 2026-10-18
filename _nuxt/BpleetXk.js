@@ -1,0 +1,1 @@
+import{K as e}from"./BxppJWi1.js";var t=e(`v-spacer`,`div`,`VSpacer`);export{t};

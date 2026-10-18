@@ -1,0 +1,1 @@
+import{N as e,W as t,kt as n}from"./Z7zO-HVY.js";import{n as r}from"#entry";import{t as i}from"./CNs_Ozdc.js";var a=t({__name:`admin`,setup(t){return i({middleware:[`auth`,`admin-only`]}),(t,i)=>{let a=r;return n(),e(a)}}});export{a as default};

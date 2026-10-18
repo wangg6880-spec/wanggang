@@ -1,0 +1,1 @@
+import{Ct as e,F as t,W as n,kt as r}from"./Z7zO-HVY.js";import{m as i}from"./BkBivIvj.js";var a=n({__name:`index`,setup(n){let a=i();return e(()=>{a.push(`/group/data/foods`)}),(e,n)=>(r(),t(`div`))}});export{a as default};

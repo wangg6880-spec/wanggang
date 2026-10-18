@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./BkBivIvj.js";import{p as n}from"#entry";var r=e(e=>{let{loggedIn:r}=n();if(!r.value)return t({path:`/login`,query:{redirect:e.fullPath}})});export{r as default};

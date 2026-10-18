@@ -1,0 +1,1 @@
+import{gt as e,j as t}from"./Z7zO-HVY.js";import{m as n,p as r}from"./BkBivIvj.js";function i(i,a){let o=r(),s=n();return t({get(){return o.query[i]??a??null},set(t){e(()=>{s.replace({query:{...o.query,[i]:t}})})}})}export{i as t};
